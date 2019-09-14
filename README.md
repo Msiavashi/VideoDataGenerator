@@ -1,10 +1,10 @@
 # VideoDataGenerator
-VideoDataGenerator for keras
+VideoDataGenerator for keras and other machine learning and data science frameworks.
 
 The generator works as simple as ImageDataGenerator which ships with Keras.
 
 ## Dependencies
-pip install sklearn
+pip install sklearn \b
 pip install Keras
 
 ## How it Works
