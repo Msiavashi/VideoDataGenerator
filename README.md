@@ -4,7 +4,8 @@ VideoDataGenerator for keras and other machine learning and data science framewo
 The generator works as simple as ImageDataGenerator which ships with Keras.
 
 ## Dependencies
-pip install sklearn \b
+
+pip install sklearn\
 pip install Keras
 
 ## How it Works
@@ -12,6 +13,7 @@ pip install Keras
 You should extract the frames of your videos and save them under a structure such as follow:
 `
 -training_data/
+
     --first_label/
       --video_1_frames/
       --video_2_frames/
